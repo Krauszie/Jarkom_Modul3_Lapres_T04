@@ -25,7 +25,7 @@ Lalu, me relay dengan SURABAYA dengan mengetikan nano /etc/default/isc-dchp-rela
 
 ![gambar](https://user-images.githubusercontent.com/55182321/100519007-c4816780-31c7-11eb-862e-b6de94ded614.png)
 
-## dhcpd.conf
+## -----dhcpd.conf-----
 
 ![gambar](https://user-images.githubusercontent.com/55182321/100519033-eaa70780-31c7-11eb-82ca-465ff680eaf8.png)
 ![gambar](https://user-images.githubusercontent.com/55182321/100519274-85541600-31c9-11eb-928a-4257b3735c61.png)
@@ -58,7 +58,7 @@ Mengecek pada setiap client menggunakan cat /etc/resolv.conf
 
 Mengatur di dhcpd.conf default-lease time untuk subnet 1 menjadi 300 (detik) dan subnet 3 menjadi 600 (detik)
 
-## squid.conf 
+## -----squid.conf----- 
 
 ![gambar](https://user-images.githubusercontent.com/55182321/100520363-044c4d00-31d0-11eb-8a3f-dad40b942879.png)
 ![gambar](https://user-images.githubusercontent.com/55182321/100520369-08786a80-31d0-11eb-8f21-c6ecb75bb013.png)
