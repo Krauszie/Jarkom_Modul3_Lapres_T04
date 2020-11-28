@@ -112,6 +112,7 @@ dan memasukan pada squid.conf
 ## 12. menggunakan proxy cukup dengan mengetikkan domain janganlupa-ta.t04.pw dan memasukkan port 8080. 
 
 Membuat Domain di Malang 
+
 ![gambar](https://user-images.githubusercontent.com/55182321/100521141-6d35c400-31d4-11eb-9ec1-639baff3737e.png)
 
 Mengetikan janganlupa-ta.t04.pw dan dengan ip mojokerto
