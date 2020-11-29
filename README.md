@@ -1,4 +1,6 @@
 # Jarkom_Modul3_Lapres_T04
+# Fachrizal Rahmat Hidayat  /05311840000005
+# Faza Murtadho             /05311840000034
 
 ## 1. Membuat Topologi
 
